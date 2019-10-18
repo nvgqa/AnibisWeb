@@ -2,7 +2,7 @@
   "email": "reseller.nvg@gmail.com",
   "password": "nvg07072012",
   "username": "NVG Reseller",
-  "expectation":"failed"
+  "expectation":"ignored"
 },{
   "email": "buyer.nvg@gmail.com",
   "password": "nvg07072012",
